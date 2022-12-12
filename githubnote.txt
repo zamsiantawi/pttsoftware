@@ -1,0 +1,3 @@
+window command prompt => ssh-keygen => Enter
+** Don't make a keygen again and again. This is only for once...
+ Keygen to make sure this computer is known by github.
